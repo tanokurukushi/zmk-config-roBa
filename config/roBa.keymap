@@ -75,10 +75,10 @@
 
         ARROW {
             bindings = <
-&trans     &kp ESC    &kp LEFT_GUI  &trans   &trans                       &kp HOME  &kp PG_DN         &kp PG_UP          &kp END    &trans
-&kp LCTRL  &kp LSHFT  &kp LEFT_ALT  &kp TAB  &trans  &trans      &trans   &kp LEFT  &kp DOWN          &kp UP             &kp RIGHT  &kp K_APP
-&trans     &trans     &kp F2        &trans   &trans  &trans      &trans   &trans    &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans     &trans
-&trans     &trans     &trans        &trans   &trans  &trans      &kp DEL  &trans                                                    &trans
+&kp ESC    &kp F2      &kp LEFT_GUI  &kp F4   &kp LC(MINUS)                          &kp HOME  &kp PG_DN         &kp PG_UP          &kp END    &trans
+&kp LCTRL  &kp LSHFT   &kp LEFT_ALT  &kp TAB  &kp LC(JIS_PLUS)  &trans      &trans   &kp LEFT  &kp DOWN          &kp UP             &kp RIGHT  &kp K_APP
+&trans     &kp LC(N1)  &trans        &trans   &trans            &trans      &trans   &trans    &kp LC(LG(LEFT))  &kp LC(LG(RIGHT))  &trans     &trans
+&trans     &trans      &trans        &trans   &trans            &trans      &kp DEL  &trans                                                    &trans
             >;
         };
 
