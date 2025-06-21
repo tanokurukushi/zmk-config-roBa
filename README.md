@@ -32,8 +32,6 @@ A personalized fork of [kumamuk-git/zmk-config-roBa](https://github.com/kumamuk-
 
 ### Combos
 
-Combos in the default_layer:
-
 ![combos](/images/combos.png)
 
 ### Mouse
